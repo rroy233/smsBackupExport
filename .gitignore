@@ -1,0 +1,4 @@
+*.xlsx
+cookie.txt
+/bin/
+/.idea
